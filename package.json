@@ -11,11 +11,9 @@
       "pretest": "tsx ./src/data --clear",
       "posttest": ""
    },
-   "author": "Juan De la torre @codigoconjuan",
-   "license": "ISC",
+   
    "devDependencies": {
       "@types/cors": "^2.8.17",
-      "@types/express": "^4.17.20",
       "@types/jest": "^29.5.14",
       "@types/morgan": "^1.9.9",
       "@types/supertest": "^6.0.2",
